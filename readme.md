@@ -6,6 +6,6 @@
 
 💼 In my previous role as a Systems Engineer (Data Engineer) at Infosys Private Limited in Chennai, India, I worked with clients to construct and monitor data pipelines with multiple stages and complex transformations, devising reports and dashboards using industry tools like SSRS and PowerBI. I also automated the SSIS package monitoring system and resolved client issues with 0% SLA breach.
 
-🚀 I've worked on a range of exciting projects, including developing a YouTube clone using React, MongoDB, and Axios for uploading, watching, and sharing videos 📹, creating a full-stack Windows application using Java Swing for ordering food and groceries 🍔, and designing prediction models to detect fake news with up to 98% accuracy 📰.
+In my role at LeadHawk LLC, I engineered a React frontend with Material-UI and Redux, implemented MongoDB with Spring Data, and designed webhooks for seamless Stripe API integration. I also built a robust Spring Boot backend for up to 1,000 users and set up a CI/CD Pipeline with GitHub Actions for Docker images deployed on AWS Fargate. Exciting challenges, but always ready for more! 🚀😊
 
 📫 If you're interested in connecting, feel free to reach out to me at (857) 376-1705 or sridhar.ba@northeastern.edu. You can also check out my GitHub profile to see more of my work!
