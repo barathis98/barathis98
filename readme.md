@@ -4,7 +4,7 @@
 
 💻 I have strong skills in JavaScript, Angular, Reactjs, Python, Java, SQL, and database management. I'm proficient in a range of tools and technologies, including Git, Bash, Linux, NumPy, Pandas, Sci-Kit Learn, Matplotlib, and more.
 
-💼 In my previous role as a Systems Engineer (Data Engineer) at Infosys Private Limited in Chennai, India, I worked with clients to construct and monitor data pipelines with multiple stages and complex transformations, devising reports and dashboards using industry tools like SSRS and PowerBI. I also automated the SSIS package monitoring system and resolved client issues with 0% SLA breach.
+
 
 In my role at LeadHawk LLC, I engineered a React frontend with Material-UI and Redux, implemented MongoDB with Spring Data, and designed webhooks for seamless Stripe API integration. I also built a robust Spring Boot backend for up to 1,000 users and set up a CI/CD Pipeline with GitHub Actions for Docker images deployed on AWS Fargate. Exciting challenges, but always ready for more! 🚀😊
 
