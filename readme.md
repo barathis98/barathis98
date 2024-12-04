@@ -1,6 +1,6 @@
 👋 Hi there! I'm Barathi Sridhar, a highly motivated and skilled full-stack developer with experience in designing and developing web applications 🌐, building data pipelines 🚀, and implementing machine learning models 🤖. I'm passionate about solving complex problems and delivering innovative solutions to clients 💡.
 
-🎓 I'm currently pursuing a Master of Science in Information Systems at Northeastern University in Boston, MA. I earned my Bachelor of Technology in Computer Science and Engineering from SASTRA University in India in May 2020.
+🎓 I'm currently pursuing a Master of Science in Information Systems at Northeastern University in Boston, MA. 
 
 💻 I have strong skills in JavaScript, Angular, Reactjs, Python, Java, SQL, and database management. I'm proficient in a range of tools and technologies, including Git, Bash, Linux, NumPy, Pandas, Sci-Kit Learn, Matplotlib, and more.
 
